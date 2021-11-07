@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Delete session cookies
     description                           : Session cookies are cookies that identify you. Cookie Blocker will delete session cookies to avoid tracking. 
-    fontawesome_icon_name                 : shield-virus
+    fontawesome_icon_name                 : hand-paper
     
   - title                                 : Selective blocking
     description                           : Cookie blocker only blocks cookies on sites that you whitelist only. You have the power to control which sites to block.
