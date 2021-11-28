@@ -10,6 +10,15 @@ A small diary of Cookie Blocker app
 <br>
 
 ### `Latest`
+# **Version 1.1**
+When changing App tint color, the color is not restored on the next app load.
+
+#### What's New
+
+#### Bug Fixes
+- Restore app tint color based on settings.
+
+<br>
 # **Version 1.0**
 This is the first release.
 Cookie Blocker runs as a Safari extension that allows you to block certain sites from installing cookies.
