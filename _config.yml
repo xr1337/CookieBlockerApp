@@ -39,9 +39,13 @@ features                                  :
     description                           : Session cookies are cookies that identify you. Cookie Blocker will delete session cookies to avoid tracking.
     fontawesome_icon_name                 : hand-paper
 
-  - title                                 : Selective blocking
-    description                           : Cookie blocker only blocks cookies on sites that you whitelist only. You have the power to control which sites to block.
+  - title                                 : Selective blocking mode
+    description                           : Cookie blocker only blocks cookies on sites that you selected. You have the power to control which sites to block.
     fontawesome_icon_name                 : magic
+
+  - title                                 : Block everything mode
+    description                           : Block everything, similar to incognito mode except with an exclusionlist
+    fontawesome_icon_name                 : globe
 
   - title                                 : Easy to use
     description                           : You only need to tap on one switch to turn on blocking.
