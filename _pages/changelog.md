@@ -10,6 +10,17 @@ A small diary of Cookie Blocker app
 <br>
 
 ### `Latest`
+# **Version 1.2**
+Thank you for support.
+
+#### What's New
+This version comes with a new mode.
+
+🎉 Block all cookies mode.
+When enabled, all cookies will be clear from website ( unless they are in the exluded list ).
+
+Give it a try - Block All Cookies mode can be found in the settings screen.
+
 # **Version 1.1**
 When changing App tint color, the color is not restored on the next app load.
 
