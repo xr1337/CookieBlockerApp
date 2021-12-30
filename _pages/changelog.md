@@ -10,6 +10,19 @@ A small diary of Cookie Blocker app
 <br>
 
 ### `Latest`
+
+# **Version 1.3**
+Thank you for support.
+This version comes with a couple of customer feedbacks.🎉
+
+**Ignore subdomains settings**
+
+When enabled, all cookies under *.domain.com will be deleted.
+
+**Delete domains**
+
+You can now delete domains by swiping left.
+
 # **Version 1.2**
 Thank you for support.
 
