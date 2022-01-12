@@ -11,7 +11,14 @@ A small diary of Cookie Blocker app
 
 ### `Latest`
 
+
+# **Version 1.4**
+Thank you for support. This version comes with a bug fix on cookie deletion.
+
+**Special handling** on stubborn and sticky cookies
+
 # **Version 1.3**
+
 Thank you for support.
 This version comes with a couple of customer feedbacks.🎉
 
