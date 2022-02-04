@@ -11,6 +11,9 @@ A small diary of Cookie Blocker app
 
 ### `Latest`
 
+# **Version 2.0**
+
+Finally - we are available for MacOS
 
 # **Version 1.4**
 Thank you for support. This version comes with a bug fix on cookie deletion.
