@@ -11,6 +11,15 @@ A small diary of Cookie Blocker app
 
 ### `Latest`
 
+# **Version 2.1**
+Thank you for support.
+
+This version comes with the following fixes:
+
+1. Fixes on missing http cookies.
+2. Http only rules list is now a remote url configuration.
+3. On Mac, you can right click to delete items ( swipe is supported too )
+
 # **Version 2.0**
 
 Finally - we are available for MacOS
