@@ -10,6 +10,8 @@ A small diary of Cookie Blocker app
 <br>
 
 ### `Latest`
+# **Version 2.2**
+Bug fix: Supports clearing out session storage
 
 # **Version 2.1**
 Thank you for support.
