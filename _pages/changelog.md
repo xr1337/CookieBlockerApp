@@ -10,6 +10,10 @@ A small diary of Cookie Blocker app
 <br>
 
 ### `Latest`
+# **Version 2.3**
+Crash fix: Fix a crash when multiple devices are trying to sync
+
+
 # **Version 2.2**
 Bug fix: Supports clearing out session storage
 
