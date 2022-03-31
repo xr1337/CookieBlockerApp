@@ -10,6 +10,9 @@ A small diary of Cookie Blocker app
 <br>
 
 ### `Latest`
+# **Version 2.4**
+Whitelisting supports *.somedomain.com annotation.
+
 # **Version 2.3**
 Crash fix: Fix a crash when multiple devices are trying to sync
 
