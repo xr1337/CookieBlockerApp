@@ -10,6 +10,9 @@ A small diary of Cookie Blocker app
 <br>
 
 ### `Latest`
+# **Version 2.5**
+Build to support iOS 15.5 and MacOS 12.4
+
 # **Version 2.4**
 Whitelisting supports *.somedomain.com annotation.
 
