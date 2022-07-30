@@ -10,6 +10,13 @@ A small diary of Cookie Blocker app
 <br>
 
 ### `Latest`
+# **Version 2.6**
+Changes:
+- Fix performance issues during startup and loading websites settings.
+- Accessiblity improvements for Voice over
+- New setting to customize when cookies are deleted ( defaults to 3 seconds after visiting a siter)
+
+
 # **Version 2.5**
 Build to support iOS 15.5 and MacOS 12.4
 
