@@ -10,7 +10,12 @@ November 13 2021
 # Privacy Policy
 
 ## 1.0 Information We Collect
-Cookie Blocker does not collect anything. Cookie Blocker does not send any data from or to your device. All functionality is performed on your device. There are no analytics. If we add this in the future we will let you know, but even then it would be hosted on our own servers with no tracking.
+Cookie Blocker does not collect anything. All functionality is performed on your device. There are no analytics. If we add this in the future we will let you know, but even then it would be hosted on our own servers with no tracking.
+Cookie Blocker does not send any data from or to your device. Your privacy report in iOS may report the following domains
+- cookie.sufiyanyasa.com
+- sufiyanyasa.com
+
+Cookie Blocker downloads a `cookie list` from the above domains. The list contains server side cookies that Safari cannot detect. (versions 2.7 will make this functionality non default and has a toggle to turn off this functionality )
 
 ### 1.2 Information you provide to us
 In a future version of the app it will be possible to share your own groups with other people, but you will always need to initiate this sharing yourself and you will be given a clear warning.
