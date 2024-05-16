@@ -5,13 +5,13 @@ include_in_header: false
 ---
 
 **Last updated**
-November 13 2021
+May 17 2024
 
 # Privacy Policy
 
 ## 1.0 Information We Collect
 Cookie Blocker does not collect anything. All functionality is performed on your device. There are no analytics. If we add this in the future we will let you know, but even then it would be hosted on our own servers with no tracking.
-Cookie Blocker does not send any data from or to your device. Your privacy report in iOS may report the following domains
+Cookie Blocker does not send any data from your device. Your privacy report in iOS may report the following domains
 - cookie.sufiyanyasa.com
 - sufiyanyasa.com
 
